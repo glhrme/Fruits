@@ -1,0 +1,6 @@
+framework module Fruits {
+  umbrella header "Fruits-umbrella.h"
+
+  export *
+  module * { export * }
+}

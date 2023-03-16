@@ -1,0 +1,22 @@
+{
+  "name": "Fruits",
+  "version": "0.1.0",
+  "summary": "A short description of Fruits.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/43591396/Fruits",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "43591396": "guilherme@guisantos.com.br"
+  },
+  "source": {
+    "git": "https://github.com/43591396/Fruits.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "Fruits/Classes/**/*"
+}
